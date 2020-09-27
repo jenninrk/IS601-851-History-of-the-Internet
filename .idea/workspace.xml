@@ -26,8 +26,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Added Pictures Folder">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Bug Fix: Updating gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dotcom.html" beforeDir="false" afterPath="$PROJECT_DIR$/dotcom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internet_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/internet_search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601242749060</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bug Fix: Updating gitignore">
+      <created>1601243322399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601243322399</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,17 +128,18 @@
     <MESSAGE value="Bootstrap and JS Files" />
     <MESSAGE value="Added Pictures Folder" />
     <MESSAGE value="Task: created gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: created gitignore" />
+    <MESSAGE value="Bug Fix: Updating gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug Fix: Updating gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601217219383">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601217219383" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601242761207">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601243340189">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601242761207" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601243340189" />
     <state x="625" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601220167963">
       <screen x="0" y="0" width="1563" height="1002" />
     </state>
