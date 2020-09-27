@@ -36,19 +36,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i69IWVIZoYgueu5SNjPdPf5RMa" />
@@ -57,7 +45,6 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -71,7 +58,6 @@
       <option name="presentableId" value="Default" />
       <updated>1601217094522</updated>
       <workItem from="1601217095609" duration="1170000" />
-      <workItem from="1601219990477" duration="1477000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap and JS Files">
       <created>1601217361659</created>
@@ -98,19 +84,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/dotcom" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -132,10 +106,9 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601217488261" />
-    <state x="625" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601220167963">
-      <screen x="0" y="0" width="1563" height="1002" />
+    <state x="768" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601218506599">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="625" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1563.1002@0.0.1563.1002" timestamp="1601220167963" />
     <state x="768" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601218506599" />
     <state x="703" y="425" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601218610413">
       <screen x="0" y="0" width="1920" height="1050" />
