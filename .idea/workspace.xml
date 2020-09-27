@@ -21,13 +21,13 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/about" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/team" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Bug Fix: Updating Nav Bar links">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Feature: Adding About page (about.html)">
+      <change afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="team" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601243465176</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Feature: Adding About page (about.html)">
+      <created>1601243620549</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601243620549</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +129,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/about" />
+                        <option value="origin/team" />
                       </list>
                     </value>
                   </entry>
@@ -141,21 +148,22 @@
     <MESSAGE value="Task: created gitignore" />
     <MESSAGE value="Bug Fix: Updating gitignore" />
     <MESSAGE value="Bug Fix: Updating Nav Bar links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug Fix: Updating Nav Bar links" />
+    <MESSAGE value="Feature: Adding About page (about.html)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Adding About page (about.html)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601217219383">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601217219383" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601243473660">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601243653711">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601243473660" />
-    <state x="768" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601243525297">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601243653711" />
+    <state x="768" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601243706066">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="768" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601243525297" />
+    <state x="768" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601243706066" />
     <state x="703" y="425" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601218610413">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
