@@ -21,13 +21,14 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/invention" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Added index plage">
+    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Added Pictures Folder">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +94,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Bootstrap and JS Files" />
     <MESSAGE value="Added Pictures Folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Pictures Folder" />
+    <MESSAGE value="Task: created gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: created gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601217219383">
