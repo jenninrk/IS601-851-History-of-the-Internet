@@ -26,8 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Task: Added text to Team Page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Task: Added text to About Page">
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601246952295</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task: Added text to About Page">
+      <created>1601247290482</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601247290482</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,17 +190,18 @@
     <MESSAGE value="Bug Fix: Added missing pic from search page" />
     <MESSAGE value="Task: Added text to Home Page" />
     <MESSAGE value="Task: Added text to Team Page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Added text to Team Page" />
+    <MESSAGE value="Task: Added text to About Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added text to About Page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601217219383">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601217219383" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601246959082">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601247297110">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601246959082" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601247297110" />
     <state x="768" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601243706066">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
