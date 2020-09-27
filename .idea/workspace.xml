@@ -26,8 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Feature: Adding About page (about.html)">
+    <list default="true" id="1504fd07-a28d-42cd-928d-335638e62640" name="Default Changelist" comment="Bug Fix: Added missing pic from search page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601243620549</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Bug Fix: Added missing pic from search page">
+      <created>1601244471890</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601244471890</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,17 +167,18 @@
     <MESSAGE value="Bug Fix: Updating gitignore" />
     <MESSAGE value="Bug Fix: Updating Nav Bar links" />
     <MESSAGE value="Feature: Adding About page (about.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Adding About page (about.html)" />
+    <MESSAGE value="Bug Fix: Added missing pic from search page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug Fix: Added missing pic from search page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601217219383">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1601217219383" />
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601243653711">
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1601244477208">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601243653711" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1601244477208" />
     <state x="768" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601243706066">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
